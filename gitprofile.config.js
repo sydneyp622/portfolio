@@ -46,10 +46,10 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Professional Statement and Pitch Video',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'Click here to understand my WHY',
+      imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teepublic.com%2Fpin%2F13922352-why-me&psig=AOvVaw3v2tE8gPiMrp4m3mlvqich&ust=1701393973702000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDUxc3I6oIDFQAAAAAdAAAAABAE',
       link: 'https://example.com',
     },
     {
