@@ -10,6 +10,9 @@ const config = {
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
+  resume: {
+    fileUrl:
+      'https://docs.google.com/document/d/13myw3-zYgBJJfWrcTgzF49oygbCGwML6/edit?usp=drive_link&ouid=103569694507712820542&rtpof=true&sd=true', // Empty fileUrl will hide the `Download Resume` button.
   social: {
     linkedin: 'Sydney Porter',
     email: 'sydneyporter622@gmail.com',
