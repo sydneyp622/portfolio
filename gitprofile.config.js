@@ -52,10 +52,27 @@ const config = {
       link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
     },
     {
-      title: 'Project Name',
+      title: 'Conducting a Security Audit',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'This is where I learned step-by-step on how to conduct a security audit',
+      link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
+    },
+    {
+      title: 'Use the NIST Cybersecurity Framework to Respond to a Security Incident',
+      description:
+        'This is where I used the NIST Cybersecurity framework to respond to a security incident',
+      link: 'https://drive.google.com/drive/folders/15QzEIpKm6gJgaIfIeDzd4rsNS59fY6aR?usp=sharing',
+    },
+     {
+      title: 'Demonstrating basic linux commands',
+      description:
+        'This is an activity where I was able to demonstrate the basic linux commands',
+      link: 'https://drive.google.com/drive/folders/1X3g3pGsol79V-1f7E4q8Bf3ChBsJKchZ?usp=sharing',
+    },
+      {
+      title: 'Badge and Certficates',
+      description:
+        'These are all of the badges and certficates I have obtained',
       link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
     },
   ],
