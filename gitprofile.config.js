@@ -49,7 +49,7 @@ const config = {
       title: 'Professional Statement and Pitch Video',
       description:
         'Click here to understand my WHY',
-      imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teepublic.com%2Fpin%2F13922352-why-me&psig=AOvVaw3v2tE8gPiMrp4m3mlvqich&ust=1701393973702000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDUxc3I6oIDFQAAAAAdAAAAABAE',
+      imageUrl: 'https://teams.microsoft.com/l/message/19:9a6dad44-285c-4b66-b263-fa0feea961e1_a0e9ff99-1a26-49a3-a258-6252ce2b4443@unq.gbl.spaces/1701365785718?context=%7B%22contextType%22%3A%22chat%22%7D',
       link: 'https://example.com',
     },
     {
