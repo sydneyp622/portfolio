@@ -52,6 +52,18 @@ const config = {
       link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
     },
     {
+      title: 'Case #1 using SAS',
+      description:
+        'This is a case project I did using what I know about SAS',
+      link: 'https://drive.google.com/drive/folders/1kFAjAhhzG7s8DBppGzU9uDvgbmKEWzps?usp=sharing',
+    },
+    {
+      title: 'Case #2 using Tableau',
+      description:
+        'This is a case project I did using what I know about Tableau',
+      link: 'https://drive.google.com/drive/folders/1Rj_PLQt7dHrkoKESOWEQMVpN6PjHMkK9?usp=sharing',
+    },
+    {
       title: 'Conducting a Security Audit',
       description:
         'This is where I learned step-by-step on how to conduct a security audit',
