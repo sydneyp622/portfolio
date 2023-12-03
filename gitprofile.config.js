@@ -64,6 +64,12 @@ const config = {
       link: 'https://drive.google.com/drive/folders/1Rj_PLQt7dHrkoKESOWEQMVpN6PjHMkK9?usp=sharing',
     },
     {
+      title: 'Heatmap and Home Network Diagram',
+      description:
+        'This is where I learned step-by-step on how to create a heatmap and home network diagram',
+      link: 'https://drive.google.com/drive/folders/1RN9Im9asU3XgEG9QskZkeXeGadWq3bi4?usp=sharing',
+    },
+    {
       title: 'Conducting a Security Audit',
       description:
         'This is where I learned step-by-step on how to conduct a security audit',
