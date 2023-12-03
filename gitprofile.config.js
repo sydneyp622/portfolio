@@ -56,7 +56,7 @@ const config = {
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
