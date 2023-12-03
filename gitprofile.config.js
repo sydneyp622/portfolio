@@ -55,7 +55,7 @@ const config = {
       title: 'Conducting a Security Audit',
       description:
         'This is where I learned step-by-step on how to conduct a security audit',
-      link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
+      link: 'https://drive.google.com/drive/folders/1fK8dqvpIW4JU6Pv8y7-MnCjqz65uri6M?usp=sharing',
     },
     {
       title: 'Use the NIST Cybersecurity Framework to Respond to a Security Incident',
