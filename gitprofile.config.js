@@ -73,7 +73,7 @@ const config = {
       title: 'Badge and Certficates',
       description:
         'These are all of the badges and certficates I have obtained',
-      link: 'https://drive.google.com/drive/folders/1duWgX0gB_GkNDZVmEcGTHyXwZpCRxCDI?usp=sharing',
+      link: 'https://drive.google.com/drive/folders/1qxilxQPp-o39D20XB46ToOfTWpYeMRx0?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
